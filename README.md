@@ -1,4 +1,4 @@
-# Nzyme-coins
+# Nzyme-coin
  A simple crypto currency I am trying to make in Type Script
  
 I am just learning making block chains and crypto currencies</br>
