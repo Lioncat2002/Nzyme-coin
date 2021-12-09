@@ -1,4 +1,3 @@
-import { Console } from 'console';
 import * as crypto from 'crypto';
 class Transaction{
     constructor(
